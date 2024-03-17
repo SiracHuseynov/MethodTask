@@ -13,7 +13,7 @@ namespace MethodTask
             #region 1.ci tapsirig
             //1. 2 string array-i içerisindeki ortaq elementleri tapib ekrana yazdiran metod;
 
-            //string[] names1 = { "Sirac", "Aysu", "Nezrin", "Aydan", "Ayse", };
+            //string[] names1 = { "Sirac",  "Nezrin", "Aysu", "Aydan", "Ayse", };
             //string[] names2 = { "Aytac", "Zehra", "Aysu", "Emine", "Ayten", "Sirac" };
             //FindCommonElements(names1, names2);
             #endregion
@@ -49,6 +49,7 @@ namespace MethodTask
         #region 1.ci tapsirig
         //static void FindCommonElements(string[] arr1, string[] arr2)
         //{
+        //    bool f = true;
         //    for (int i = 0; i < arr1.Length; i++)
         //    {
         //        for (int j = 0; j < arr2.Length; j++)
@@ -56,8 +57,13 @@ namespace MethodTask
         //            if (arr1[i] == arr2[j])
         //            {
         //                Console.WriteLine("Common element: " + arr1[i]);
+        //                f = false;
         //            }
         //        }
+        //    }
+        //    if(f)
+        //    {
+        //        Console.WriteLine("No common element");
         //    }
         //}
         #endregion

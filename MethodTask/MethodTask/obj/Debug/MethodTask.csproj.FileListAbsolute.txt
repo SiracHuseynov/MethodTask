@@ -5,3 +5,10 @@ C:\Users\Sirac Huseynov\Desktop\UniTekrar\MethodTask\MethodTask\obj\Debug\Method
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\MethodTask\MethodTask\obj\Debug\MethodTask.csproj.CoreCompileInputs.cache
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\MethodTask\MethodTask\obj\Debug\MethodTask.exe
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\MethodTask\MethodTask\obj\Debug\MethodTask.pdb
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\bin\Debug\MethodTask.exe.config
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\bin\Debug\MethodTask.exe
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\bin\Debug\MethodTask.pdb
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\obj\Debug\MethodTask.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\obj\Debug\MethodTask.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\obj\Debug\MethodTask.exe
+C:\Users\Sirac Huseynov\Desktop\codee's repo\MethodTask\MethodTask\MethodTask\obj\Debug\MethodTask.pdb

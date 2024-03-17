@@ -30,8 +30,11 @@ namespace MethodTask
             //3. Array-in içerisinde verilmiş herf ile başlayanları ekrana yazdırsın
             //(example: { "Anar" , "Eli" , "Yusif" , "Arif" }   ==> Anar , Arif)
 
+            //Console.WriteLine("Enter the letter: ");
+            //char letter = Convert.ToChar(Console.ReadLine());
+
             //string[] names = { "Sirac", "Ayten", "Nezrin", "Aysu", "Sabina", "Aytac", "Aysel" };
-            //FindNames(names);
+            //FindNames(names, letter);
             #endregion
 
             #region 4.cu tapsirig
@@ -41,7 +44,7 @@ namespace MethodTask
             //c.Düzbucaqlı paralelpipedin tam səthinin sahəsi - S = 2(a * b + a * c + b * c)
             //d.Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi - S = p * r; p = (a + b + c) / 2
 
-            //int area = Area(2, 5, 3, 2);
+            //int area = Area(2,3,5,5);
             //Console.WriteLine("Area: " + area);
             #endregion
         }
@@ -82,12 +85,12 @@ namespace MethodTask
         #endregion
 
         #region 3.cu tapsirig
-        //static void FindNames(string[] arr)
+        //static void FindNames(string[] arr, char letter)
         //{
         //    bool f = true;
         //    for (int i = 0; i < arr.Length; i++)
         //    {
-        //        if (arr[i][0] == 'A')
+        //        if (arr[i][0] == letter)
         //        {
         //            Console.WriteLine("Search name: " + arr[i]);
         //            f = false;
@@ -95,7 +98,7 @@ namespace MethodTask
         //    }
         //    if (f)
         //    {
-        //        Console.WriteLine("There is no element starting with A");
+        //        Console.WriteLine($"There is no element starting with {letter}");
         //    }
         //}
         #endregion

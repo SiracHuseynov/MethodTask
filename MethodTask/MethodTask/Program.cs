@@ -13,7 +13,7 @@ namespace MethodTask
             #region 1.ci tapsirig
             //1. 2 string array-i içerisindeki ortaq elementleri tapib ekrana yazdiran metod;
 
-            //string[] names1 = { "Sirac",  "Nezrin", "Aysu", "Aydan", "Ayse", };
+            //string[] names1 = { "Sirac", "Nezrin", "Aysu", "Aydan", "Ayse", };
             //string[] names2 = { "Aytac", "Zehra", "Aysu", "Emine", "Ayten", "Sirac" };
             //FindCommonElements(names1, names2);
             #endregion
@@ -41,7 +41,7 @@ namespace MethodTask
             //c.Düzbucaqlı paralelpipedin tam səthinin sahəsi - S = 2(a * b + a * c + b * c)
             //d.Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi - S = p * r; p = (a + b + c) / 2
 
-            //int area = Area(2,5,3,2);
+            //int area = Area(2, 5, 3, 2);
             //Console.WriteLine("Area: " + area);
             #endregion
         }
@@ -61,7 +61,7 @@ namespace MethodTask
         //            }
         //        }
         //    }
-        //    if(f)
+        //    if (f)
         //    {
         //        Console.WriteLine("No common element");
         //    }
@@ -84,12 +84,18 @@ namespace MethodTask
         #region 3.cu tapsirig
         //static void FindNames(string[] arr)
         //{
+        //    bool f = true;
         //    for (int i = 0; i < arr.Length; i++)
         //    {
         //        if (arr[i][0] == 'A')
         //        {
         //            Console.WriteLine("Search name: " + arr[i]);
+        //            f = false;
         //        }
+        //    }
+        //    if (f)
+        //    {
+        //        Console.WriteLine("There is no element starting with A");
         //    }
         //}
         #endregion
